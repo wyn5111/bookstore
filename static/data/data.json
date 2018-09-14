@@ -1,0 +1,18 @@
+{"menuData": [
+  {
+    "label":"菜单1",
+    "name":"m1",
+    "menuitems": [
+      {"name":"/test1","label":"菜单1-1"},
+      {"name":"/test2","label":"菜单1-2"}
+    ]  
+  },
+  {
+    "label":"菜单2",
+    "name":"m2",
+    "menuitems": [
+      {"name":"m2-1","label":"菜单2-1"},
+      {"name":"m2-2","label":"菜单2-2"}
+    ]  
+  }
+]}
