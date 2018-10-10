@@ -1,5 +1,5 @@
 # bookstore
-绘本库
+vue+iview项目实践
 
 # 登陆
 * 用户名与密码
